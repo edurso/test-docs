@@ -4,7 +4,10 @@
 package test.docs;
 
 /**
- * Some Docs HEre
+ * Some Docs Here
+ * Just a Test.
+ * 
+ * @author edurso - 4/22/2021
  */
 public class App {
 
@@ -23,4 +26,5 @@ public class App {
     public static void main(String[] args) {
         System.out.println(new App().getGreeting());
     }
+
 }
